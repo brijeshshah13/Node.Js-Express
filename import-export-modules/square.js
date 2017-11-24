@@ -1,9 +1,4 @@
-module.exports = {
-  area: function(width){
-    return width * width;
-  },
+let perimeter = width => 4 * width;
+let area = width => width * width;
 
-  perimeter: function(width) {
-    return 4 * width;
-  } 
-};
+module.exports = { perimeter, area }
