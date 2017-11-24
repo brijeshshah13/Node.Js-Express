@@ -1,0 +1,14 @@
+{
+  "name": "import-export-modules",
+  "version": "1.0.0",
+  "description": "Import-Export-Create module App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brijesh Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
