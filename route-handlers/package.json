@@ -1,0 +1,14 @@
+{
+  "name": "route-handlers",
+  "version": "1.0.0",
+  "description": "Create-Group Route Handlers App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brijesh Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
