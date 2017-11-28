@@ -1,0 +1,12 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "A simple logger that uses express middleware",
+  "main": "app.js",
+  "author": "xXAlphaManXx",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
