@@ -15,3 +15,7 @@ And then execute this command to start the app
 ```bash
 node .
 ```
+
+## Licence
+
+Licensed under [***Unlicense***](https://choosealicense.com/licenses/unlicense/) to make this project available to anyone irrespective of modules using different licenses. *No atrribution is required. But would be happy if you do so*.
